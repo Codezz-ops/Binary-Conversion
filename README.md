@@ -38,7 +38,7 @@ By revisiting this seemingly straightforward project, I aim to measure the strid
 
 ## Resources
 
-If you're seeking a broad understanding of what a binary IP is and how it functions, feel free to explore the introductory [notes](https://github.com/Codezz-ops/Binary-Conversion/notes/NOTES.md). For a deeper dive into the intricacies of subnetting, I'll provide additional comprehensive resources below. Happy learning!
+If you're seeking a broad understanding of what a binary IP is and how it functions, feel free to explore the introductory [notes](https://github.com/Codezz-ops/Binary-Conversion/blob/main/notes/NOTES.md). For a deeper dive into the intricacies of subnetting, I'll provide additional comprehensive resources below. Happy learning!
 
 [Video by NetworkChuck](https://www.youtube.com/watch?v=2-i5x8KCfII)
 
